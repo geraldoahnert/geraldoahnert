@@ -9,5 +9,5 @@ Node, TailwindCSS, Apache, MySQL, MariaDB.
 Linux and Windows.
 
 # 💀 Security
-CTF for fun.
+For fun.
 ```
