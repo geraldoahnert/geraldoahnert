@@ -1,6 +1,6 @@
 ```markdown
 # 💻 Code
-JavaScript, Python, Shell Script, Ruby, PHP.
+JavaScript, Python, Shell Script, Ruby.
 
 # ⚙️ Tools
 Node, TailwindCSS, Bootstrap, Apache, Ngix, MySQL, MariaDB.
