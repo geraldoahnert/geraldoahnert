@@ -3,7 +3,7 @@
 JavaScript, Python, Shell Script, Ruby.
 
 # ⚙️ Tools
-Node, TailwindCSS, Bootstrap, Apache, Ngix, MySQL, MariaDB.
+Node, TailwindCSS, Apache, Ngix, MySQL, MariaDB.
 
 # 🗃️ O.S.
 Linux and Windows.
