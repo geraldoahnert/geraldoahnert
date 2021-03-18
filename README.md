@@ -6,7 +6,7 @@ JavaScript, Python, Shell Script, Ruby.
 Node, TailwindCSS, Apache, MySQL, MariaDB.
 
 # 🗃️ O.S.
-Linux and Windows.
+Linux.
 
 # 💀 Security
 For fun.
