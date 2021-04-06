@@ -3,11 +3,11 @@
 JavaScript, Shell Script. ̶Python, Ruby, PHP.
 
 # ⚙️ Tools
-Node, React, TailwindCSS, MySQL, MariaDB, Apache.
+Node, React. TailwindCSS, Bootstrap. MySQL, MariaDB, Apache. Notion. VSCode, WSL2.
 
 # 🗃️ O.S.
-Linux.
+Windows. Debian, Ubuntu, Arch, Manjaro, Mint, CentOS.
 
 # 💀 Security
-For fun.
+For fun, web only.
 ```
