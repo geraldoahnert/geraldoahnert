@@ -1,9 +1,9 @@
 ```markdown
 # 💻 Code
-JavaScript, Shell Script. ̶Python, Ruby, PHP.
+JavaScript. Shell Script, Python. Ruby, PHP.
 
 # ⚙️ Tools
-Node, React. TailwindCSS, Bootstrap. MySQL, MariaDB, Apache. VSCode, WSL2. Notion.
+Node, React. TailwindCSS, Bootstrap. MySQL. VSCode. Notion.
 
 # 🗃️ O.S.
 Windows. Debian, Ubuntu, Arch, Manjaro, Mint, CentOS.
