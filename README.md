@@ -2,11 +2,8 @@
 # 💻 Languages
 JavaScript. Shell Script, Python. SQL. Ruby, PHP.
 
-# 📜 Frameworks
-React, Bootstrap. TailwindCSS.
-
-# ⚙️ Tools
-Node, MySQL, Notion. VSCode, WSL2.
+# 📜 Frameworks & Tools
+Node, React, Bootstrap, TailwindCSS, MySQL, Notion.
 
 # 🎲 Architetures
 APIs, RESTFUL, Clean Code, SOLID. MVC.
