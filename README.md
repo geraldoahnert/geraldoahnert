@@ -1,16 +1,10 @@
 ```markdown
 # 💻 Languages
-JavaScript. Shell Script, Python. SQL. Ruby, PHP.
+JavaScript, Shell Script, SQL. Python.
 
-# 📜 Frameworks & Tools
-Node, React, Bootstrap, TailwindCSS, MySQL, Notion.
+# 📜 Tools
+Node, React, Bootstrap, TailwindCSS, MySQL.
 
-# 🎲 Architetures
-APIs, RESTFUL, Clean Code, SOLID. MVC.
-
-# 🗃️ O.S.
-Windows. Debian, Ubuntu, Arch, Manjaro, Mint, CentOS.
-
-# 💀 Security
-For fun, web only.
+# 🗃️ Systems
+Windows. Debian, Ubuntu, Arch, Manjaro, Mint.
 ```
