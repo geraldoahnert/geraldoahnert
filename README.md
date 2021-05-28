@@ -3,7 +3,7 @@
 JavaScript, Shell Script, SQL. Python.
 
 # 📜 Tools
-Node, React, Bootstrap, TailwindCSS, MySQL, Express.
+Node, React, TailwindCSS, Express.
 
 # 🗃️ Systems
 Windows. Debian, Ubuntu, Arch, Manjaro, Mint.
