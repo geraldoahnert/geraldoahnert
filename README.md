@@ -1,10 +1,4 @@
 ```markdown
-# 💻 Languages
-JavaScript, Shell Script, SQL. Python.
-
-# 📜 Tools
-Node, React, TailwindCSS, Express.
-
-# 🗃️ Systems
-Windows. Debian, Ubuntu, Arch, Manjaro, Mint.
+# 💻 Actualy
+Visual Studio Code, WSL2 and Windows 10.
 ```
