@@ -1,4 +1,3 @@
 ```markdown
-# 💻 Actually
-Visual Studio Code, WSL2 and Windows 10.
+# 🐙 I'm in focusing with Back-End JavaScript Ecosystem
 ```
