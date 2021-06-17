@@ -1,3 +1,3 @@
 ```markdown
-# 🐙 I'm in focusing with Back-End JavaScript Ecosystem
+# 🐙 Focusing on Back-End
 ```
